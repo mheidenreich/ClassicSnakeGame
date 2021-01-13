@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 
 """
-    Program: Python Beginner Tutorial
-			 Classic Snake Game - Part 1 (snake1.py)
+    Program: 	Python Beginner Tutorial
+		Classic Snake Game - Part 1 (snake1.py)
 			 
     Author:  M. Heidenreich, (c) 2021
 
