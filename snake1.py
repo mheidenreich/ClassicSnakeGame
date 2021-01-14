@@ -51,7 +51,7 @@ try:
     score_board = curses.newwin(1, terminal_x, 0, 0)
     game_area = curses.newwin(terminal_y-1, terminal_x, 1, 0)
     game_area.keypad(True)
-    game_area.timeout(1)
+    game_area.timeout(10)
 
     start_game()
 
