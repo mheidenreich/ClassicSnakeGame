@@ -8,7 +8,7 @@
     Author:  	M. Heidenreich, (c) 2021
     Description:
     This code is provided in support of the following YouTube tutorial:
-    https://youtu.be/MdFUWIU2qpQ
+    https://youtu.be/svffMjORYYU
     
     This multi-part tutorial is a tool for beginners to get into Python
     programming on Linux. Basic concepts and practices are introduced
