@@ -5,14 +5,15 @@
     Program: 	Python Beginner Tutorial
 		Classic Snake Game - Part 2 (snake2.py)
 			 
-    Author:  M. Heidenreich, (c) 2021
+    Author:  	M. Heidenreich, (c) 2021
     Description:
     This code is provided in support of the following YouTube tutorial:
-    https://youtu.be/kANj0hZHR54
+    https://youtu.be/MdFUWIU2qpQ
     
     This multi-part tutorial is a tool for beginners to get into Python
     programming on Linux. Basic concepts and practices are introduced
     and explained using a classic snake game.
+    
     THIS SOFTWARE AND LINKED VIDEO TOTORIAL ARE PROVIDED "AS IS" AND THE
     AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING ALL IMPLIED WARRANTIES OF
     MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
