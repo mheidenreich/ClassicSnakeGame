@@ -133,13 +133,13 @@ def move_snake():
             food.pop(new_location)
 
         snake.insert(0, new_location)
-        growth.pop(-1)
-
         game_area.addstr(new_location.y, new_location.x, "\u2588")
 
         if new_location.y in (0, terminal_y-2) or new_location.x in (0, terminal_x-1) or new_location in snake[4:]:
             game_on = False
             break
+	    
+	growth.pop(-1)
 
     game_area.addstr(snake[-1].y, snake[-1].x, " ")
     game_area.refresh()
