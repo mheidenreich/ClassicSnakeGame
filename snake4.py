@@ -1,5 +1,28 @@
 #!/usr/bin/python3
 
+""
+    Program: 	Python Beginner Tutorial
+		Classic Snake Game - Part 4 (snake4.py)
+			 
+    Author:  	M. Heidenreich, (c) 2021
+      
+    Description:
+    This code is provided in support of the following YouTube tutorial:
+    https://youtu.be/ykZpxsjQTlI
+    
+    This multi-part tutorial is a tool for beginners to get into Python
+    programming on Linux. Basic concepts and practices are introduced
+    and explained using a classic snake game.
+    
+    THIS SOFTWARE AND LINKED VIDEO TOTORIAL ARE PROVIDED "AS IS" AND THE
+    AUTHOR DISCLAIMS ALL WARRANTIES INCLUDING ALL IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+    ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+    WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+    ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+    OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+"""
+
 import curses
 from signal import signal, SIGTERM, pause
 from collections import namedtuple
