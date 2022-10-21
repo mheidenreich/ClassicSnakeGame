@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-""
+"""
     Program: 	Python Beginner Tutorial
 		Classic Snake Game - Part 4 (snake4.py)
 			 
