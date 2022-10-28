@@ -127,7 +127,7 @@ def move_snake():
     growth = [color_bands[0].color]
 
     while growth:
-        sleep(0.5)
+        sleep(0.1)
 
         new_location = point(snake[0].y + directions[bearing].y, snake[0].x + directions[bearing].x)
 
