@@ -139,7 +139,7 @@ def move_snake():
             game_on = False
             break
 	    
-	growth.pop(-1)
+        growth.pop(-1)
 
     game_area.addstr(snake[-1].y, snake[-1].x, " ")
     game_area.refresh()
